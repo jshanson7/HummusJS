@@ -29,9 +29,6 @@
   "dependencies": {
     "node-pre-gyp": "^0.6.13"
   },
-  "bundledDependencies": [
-    "node-pre-gyp"
-  ],
   "devDependencies": {
     "aws-sdk": "~2.0.0-rc.15",
     "chai": "^3.4.0",
